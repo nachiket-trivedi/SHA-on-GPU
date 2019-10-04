@@ -1,1 +1,1 @@
-An effort to parallelize the SHA algorithm.
+An effort to parallelize the SHA algorithm using CUDA
